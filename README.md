@@ -6,7 +6,7 @@ DMAW Website Documentation
 # I. Add a New Event
 
 In order to create an event, log into Wordpress with your username and password at http://www.dmaw.org/wp-admin/. Then click "Add new" under "Events" pictured below.
-![](//Add_Event_1.png)
+![](Add_Event_1.png)
 
 Once you create an event, the following screen will appear. Follow the steps to create an event.
 
