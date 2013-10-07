@@ -26,4 +26,5 @@ Once you create an event, the following screen will appear. Follow the steps to 
 
 ![](Add_Event_3.png)
 
+7.
 # II. Edit an Image
