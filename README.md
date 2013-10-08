@@ -30,6 +30,7 @@ DMAW Website Documentation
 ![](Add_Event_3.png)
 
 7. **Add Event Details**
+
       a. Add the event registration link here.
 
       b. Choose the event date here.
