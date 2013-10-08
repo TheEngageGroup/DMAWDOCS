@@ -15,8 +15,8 @@ DMAW Website Documentation
 
 ![](Add_Event_2.png)
 
-1. *Enter Event Title* - Add the name of the event in this field. If it is a Lunch and Learn, be sure to include that in the beginning of the title.
-2. *Add Description* Add the description of the event here. You may have to use some HTML under the "Text" tab in order to create tables for different level sponsorships.
+1. **Enter Event Title** - Add the name of the event in this field. If it is a Lunch and Learn, be sure to include that in the beginning of the title.
+2. *Add Description* - Add the description of the event here. You may have to use some HTML under the "Text" tab in order to create tables for different level sponsorships.
 3. *Publish/Save the Event* - This is where events are saved as drafts, can be previewed, and finally published. 
       The "Status" indicates whether the event is in draft, pending review, or published status.
       The "Visibility" indicates whether the event is public, password protected, or private. Events will most likely always be public.
