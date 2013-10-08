@@ -21,11 +21,11 @@ DMAW Website Documentation
       
 3. **Publish/Save the Event** - This is where events are saved as drafts, can be previewed, and finally published. 
       
-      * The "Status" indicates whether the event is in draft, pending review, or published status.
-      * The "Visibility" indicates whether the event is public, password protected, or private. Events will most likely always be public.
-      * The "Publish" field can be edited to publish the event at a date in the past, immediately, or in the future.
-      * While creating the event, it's important to click "Save Draft" and "Preview" along the process to make sure everything saves and looks correct.
-      * Once the event is ready to be published (after you finish the following steps), you'll click the "Publish" button.
+      The "Status" indicates whether the event is in draft, pending review, or published status.
+      The "Visibility" indicates whether the event is public, password protected, or private. Events will most likely always be public.
+      The "Publish" field can be edited to publish the event at a date in the past, immediately, or in the future.
+      While creating the event, it's important to click "Save Draft" and "Preview" along the process to make sure everything saves and looks correct.
+      Once the event is ready to be published (after you finish the following steps), you'll click the "Publish" button.
             
 4. **Categorize the Event** - This is where events are categorized. This makes it so the web visitor can separate the events its type.
       
