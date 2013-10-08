@@ -31,23 +31,41 @@ DMAW Website Documentation
 
 7. **Add Event Details**
       a. Add the event registration link here.
+
       b. Choose the event date here.
+      
       c. Add the event time here **to be consistant use the #AM-#PM format*.
+      
       d. Add the price for members here **to be consistant use $## format*.
+      
       e. Add the price for non-members here **to be consistant use $## format*.
+      
       f. Add the address of the event's location here **you can put the name of the location before the address, however DO NOT add any content after the address (this will cause the map to be thrown off).*
+      
       g. Add the name and position of the event's speaker here.
+      
       h. Add the speaker's image url here. If there is no image available for the speaker, use the speaker image placeholder by copying and pasting "/wp-content/uploads/2013/09/Speaker.png" into the field.
+      
       i. Add the speaker's website url, if available.
+      
       j. Add the speaker's twitter handle, if available.
+      
       k. Add the speaker's LinkedIn url, if available.
+      
       l. Add the speaker's description here.
+      
       m. Add the speaker's session name and description here.
+      
       n. Add multiple speakers by clicking "Add More" and repeating steps 7g-7m.
+      
       o. Add the sponsor's image url here. **Use a gif or png file in order to keep the transparent background.*
+      
       p. Add the url for the sponsor's website here.
+      
       q. Add multiple sponsors by clicking "Add More" and repeating steps 7o-7p.
+      
       r. Add an excerpt that will be shown on the homepage if the event is a "Featured Event" **If this is not filled out, the description from Step 2 will be shown.*
+
 
       
 # II. Edit an Image
