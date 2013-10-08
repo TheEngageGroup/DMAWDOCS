@@ -33,9 +33,7 @@ DMAW Website Documentation
       
 6. **Set the Event's Featured Image (3000px x 850px)** - Add a featured image for the event. This will be the image that shows up as the banner for the event and if the event is the featured event, will show up on the DMAW homepage. The image should be approximately 3000px x 850px.
 
-
 ![](Add_Event_3.png)
-
 
 7. **Add Event Details**
 
