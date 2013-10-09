@@ -82,8 +82,11 @@ DMAW Website Documentation
 
 ![](Add_Image_2.png)
 
-1. Select the file you want to upload and click upload.
-2. Click edit to retrieve the url for the image.
-3. Copy and paste the url circled into any field that requires a logo or image url.
 ![](Add_Image_3.png)
+
+1. Select the file you want to upload and click upload.
+
+2. Click edit to retrieve the url for the image.
+
+3. Copy and paste the url circled into any field that requires a logo or image url.
 
