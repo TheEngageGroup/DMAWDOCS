@@ -90,3 +90,14 @@ DMAW Website Documentation
 
 3. Copy and paste the url circled into any field that requires a logo or image url.
 
+ 
+# III. Edit an Image
+
+![](Edit_an_Image.png)
+
+![](Edit_an_Image_2.png)
+
+![](Edit_Image_1.png)
+
+
+
