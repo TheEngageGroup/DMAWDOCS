@@ -133,9 +133,11 @@ DMAW Website Documentation
 
 # IV. Other Website Updates
 
-*** In order to update the Featured Event, website title, website featured text, "Join DMAW" link, or home ad, click Appearance > Theme Options > Home.
+* In order to update the Featured Event, website title, website featured text, "Join DMAW" link, or home ad, click Appearance > Theme Options > Home.
 * To change the home page sponsors, click Appearance > Theme Options > Home Sponsors, where you can add and remove sponsor image urls and website links.
-* Social media links can also be edited by clicking Appearance > Theme Options > Social.**
+* Social media links can also be edited by clicking Appearance > Theme Options > Social.
+* In order to update the website's top level nagivation menus, click Appearance > Menus. Here, any page can be added to the menu.
+* 
 
 
 
