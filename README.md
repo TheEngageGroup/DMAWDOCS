@@ -12,15 +12,15 @@ DMAW Website Documentation
 ![](Add_Event_1.png)
 
 
-**Once you create an event, the following screen will appear. Follow the steps to create an event.**
+**Once the event is created, the following screen will appear. Follow the steps to create an event.**
 
 
 ![](Add_Event_2.png)
 ![](Add_Event_3.png)
 
-1. **Enter Event Title** - Add the name of the event in this field. If it is a Lunch and Learn, be sure to include that in the beginning of the title.
+1. **Enter Event Title** - Add the name of the event in this field. If it is a Lunch & Learn, be sure to include that in the beginning of the title.
       
-2. **Add Description** - Add the description of the event here. You may have to use some HTML under the "Text" tab in order to create tables for different level sponsorships.
+2. **Add Description** - Add the description of the event here. HTML under the "Text" tab may be necessary in order to create tables for different level sponsorships.
       
 3. **Publish/Save the Event** - This is where events are saved as drafts, can be previewed, and finally published. 
       
@@ -28,7 +28,7 @@ DMAW Website Documentation
       The "Visibility" indicates whether the event is public, password protected, or private. Events will most likely always be public.
       The "Publish" field can be edited to publish the event at a date in the past, immediately, or in the future.
       While creating the event, it's important to click "Save Draft" and "Preview" along the process to make sure everything saves and looks correct.
-      Once the event is ready to be published (after you finish the following steps), you'll click the "Publish" button.
+      Once the event is ready to be published (after the following steps are complete and previewed), click the "Publish" button.
             
 4. **Categorize the Event** - This is where events are categorized. This makes it so the web visitor can separate the events its type.
       
@@ -48,11 +48,11 @@ DMAW Website Documentation
       
       e. Add the price for non-members here **to be consistant use $## format*.
       
-      f. Add the address of the event's location here **you can put the name of the location before the address, however DO NOT add any content after the address (this will cause the map to be thrown off).*
+      f. Add the address of the event's location here **it's okay to put the name of the location before the address, however DO NOT add any content after the address (this will cause the map to be thrown off).*
       
       g. Add the name and position of the event's speaker here.
       
-      h. Add the speaker's image url here. If there is no image available for the speaker, use the speaker image placeholder by copying and pasting "/wp-content/uploads/2013/09/Speaker.png" into the field.
+      h. Add the speaker's image url here (image should be 200x200). If there is no image available for the speaker, use the speaker image placeholder by copying and pasting "/wp-content/uploads/2013/09/Speaker.png" into the field.
       
       i. Add the speaker's website url, if available.
       
@@ -66,7 +66,7 @@ DMAW Website Documentation
       
       n. Add multiple speakers by clicking "Add More" and repeating steps 7g-7m.
       
-      o. Add the sponsor's image url here. **Use a gif or png file in order to keep the transparent background.*
+      o. Add the sponsor's image url here. **Use a .gif or .png file in order to keep the transparent background.*
       
       p. Add the url for the sponsor's website here.
       
@@ -87,7 +87,7 @@ DMAW Website Documentation
 
 ![](Add_Image_3.png)
 
-1. Select the file you want to upload and click upload.
+1. Select the file to upload and click upload.
 
 2. Click edit to retrieve the url for the image.
 
@@ -96,7 +96,7 @@ DMAW Website Documentation
  
 # III. Edit an Image
 
-**You can crop, scale, rotate and flip any image that is uploaded into the media library. This will come in handy for resizing speaker photos, event featured images, and logos. In order to edit an image, you will need to open it in the library. It is recommended to use the following image sizes:**
+**In Wordpress, any image that is uploaded in the media library can be cropped, scaled, rotated and flipped. This will come in handy for resizing speaker photos, event featured images, and logos. In order to edit an image, the image will need to be open it in the media library. It is recommended to use the following image sizes:**
 * Speaker image - 200px width x 200px height
 * Logo image - 260px width
 * Featured image  - 3000px width x 800 height
@@ -111,11 +111,11 @@ DMAW Website Documentation
 
 1. Click "Media" > "Library".
 
-2. Click the name of the image you want to edit
+2. Click the name of the image to edit.
 
-3. You can edit the name of the image here. Please keep in mind the image url will change if you update the name of the image.
+3. Edit the name of the image here. Please keep in mind the image url will change if you update the name of the image.
 
-4. In order to crop an image, you will have to select what part of the image you want to be kept after the crop.
+4. In order to crop an image, select whatever part of the image you want to kept after the crop.
 
 5. After making a selection, click the crop button.
 
@@ -127,11 +127,11 @@ DMAW Website Documentation
 
 ![](Edit_Image_2.png)
 
-1. Click "Scale Image" and enter your desired height or width (Wordpress will keep original dimension scale).
+1. Click "Scale Image" and enter the desired height or width (Wordpress will keep original dimension scale).
 
 2. Click "Scale".
 
-3. You'll have to click "Save" and then "Update" for the image to save your changes.
+3. Click "Save" and then "Update" for the image to save the changes.
 
 
 
