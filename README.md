@@ -75,7 +75,15 @@ DMAW Website Documentation
 
       
 # II. Add an Image
+
+**To add an image for any event, blog post, sponsorship, etc., click "Media" > "Add New" and follow the steps below.**
+
 ![](Add_Image_1.png)
+
 ![](Add_Image_2.png)
+
+1. Select the file you want to upload and click upload.
+2. Click edit to retrieve the url for the image.
+3. Copy and paste the url circled into any field that requires a logo or image url.
 ![](Add_Image_3.png)
 
