@@ -93,11 +93,36 @@ DMAW Website Documentation
  
 # III. Edit an Image
 
+**You can crop, resize and scale any image that is uploaded into the media library. This will come in handy for resizing speaker photos, event featured images, and logos. In order to edit an image, you will need to open it in the library.**
+
+## Crop an Image
+
 ![](Edit_an_Image.png)
+
+1. Click "Media" > "Library".
 
 ![](Edit_an_Image_2.png)
 
+2. Click the name of the image you want to edit
+
 ![](Edit_Image_1.png)
+
+3. You can edit the name of the image here. Please keep in mind the image url will change if you update the name of the image.
+
+4. In order to crop an image, you will have to select what part of the image you want to be kept after the crop.
+
+5. After making a selection, click the crop button.
+
+6. Click Save.
+
+7. Make sure you click "Update" after you have saved the cropped image.
+
+##Resize an Image
+
+![](Edit_Image_2.png)
+
+1. 
+
 
 
 
