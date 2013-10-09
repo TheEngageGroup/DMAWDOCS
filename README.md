@@ -32,7 +32,7 @@ DMAW Website Documentation
       
 5. **Update the Event's SEO** - Filling out this section with relevant words will help with the Search Engine Optimization for the event page. 
       
-6. **Set the Event's Featured Image (3000px x 850px)** - Add a featured image for the event. This will be the image that shows up as the banner for the event and if the event is the featured event, will show up on the DMAW homepage. The image should be approximately 3000px x 850px.
+6. **Set the Event's Featured Image (3000px x 800px)** - Add a featured image for the event. This will be the image that shows up as the banner for the event and if the event is the featured event, will show up on the DMAW homepage. The image should be approximately 3000px x 800px.
 
 7. **Add Event Details**
 
@@ -77,6 +77,7 @@ DMAW Website Documentation
 # II. Add an Image
 
 **To add an image for any event, blog post, sponsorship, etc., click "Media" > "Add New" and follow the steps below.**
+*It is recommended that all logos for sponsorship are uploaded as a .png or .gif file with a transparent background.*
 
 ![](Add_Image_1.png)
 
@@ -94,6 +95,10 @@ DMAW Website Documentation
 # III. Edit an Image
 
 **You can crop, resize and scale any image that is uploaded into the media library. This will come in handy for resizing speaker photos, event featured images, and logos. In order to edit an image, you will need to open it in the library.**
+It is recommended to use the following image sizes:
+* Speaker image - 200px width x 200px height
+* Logo image - 260px width
+* Featured image  - 3000px width x 800 height
 
 ## Crop an Image
 
@@ -121,8 +126,11 @@ DMAW Website Documentation
 
 ![](Edit_Image_2.png)
 
-1. 
+1. Click "Scale Image" and enter your desired height or width (Wordpress will keep original dimension scale).
 
+2. Click "Scale".
+
+3. You'll have to click "Save" and then "Update" for the image to save your changes.
 
 
 
