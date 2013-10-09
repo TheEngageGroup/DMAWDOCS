@@ -104,13 +104,13 @@ It is recommended to use the following image sizes:
 
 ![](Edit_an_Image.png)
 
-1. Click "Media" > "Library".
-
 ![](Edit_an_Image_2.png)
 
-2. Click the name of the image you want to edit
-
 ![](Edit_Image_1.png)
+
+1. Click "Media" > "Library".
+
+2. Click the name of the image you want to edit
 
 3. You can edit the name of the image here. Please keep in mind the image url will change if you update the name of the image.
 
