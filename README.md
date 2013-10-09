@@ -94,11 +94,10 @@ DMAW Website Documentation
  
 # III. Edit an Image
 
-**You can crop, scale, rotate and flip any image that is uploaded into the media library. This will come in handy for resizing speaker photos, event featured images, and logos. In order to edit an image, you will need to open it in the library.
-It is recommended to use the following image sizes:
+**You can crop, scale, rotate and flip any image that is uploaded into the media library. This will come in handy for resizing speaker photos, event featured images, and logos. In order to edit an image, you will need to open it in the library. It is recommended to use the following image sizes:**
 * Speaker image - 200px width x 200px height
 * Logo image - 260px width
-* Featured image  - 3000px width x 800 height**
+* Featured image  - 3000px width x 800 height
 
 ## Crop an Image
 
