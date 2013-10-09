@@ -74,4 +74,8 @@ DMAW Website Documentation
 
 
       
-# II. Edit an Image
+# II. Add an Image
+![](Add_Image_1.png)
+![](Add_Image_2.png)
+![](Add_Image_3.png)
+
