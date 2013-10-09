@@ -3,9 +3,11 @@ DMAWDOCS
 
 DMAW Website Documentation
 
+**In order to add any changes to the DMAW website, you will need to log into Wordpress with your username and password at http://www.dmaw.org/wp-admin/.**
+
 # I. Add a New Event
 
-**In order to create an event, log into Wordpress with your username and password at http://www.dmaw.org/wp-admin/. Then click "Add new" under "Events" pictured below.**
+**In order to create an event, click "Add new" under "Events" pictured below.**
 
 ![](Add_Event_1.png)
 
